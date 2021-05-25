@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noteSetsFile>
+
+	<noteSet>
+	  <name>major</name>
+	  <notes>48,52,55</notes>
+	</noteSet>
+	
+	<noteSet>
+	  <name>minor</name>
+	  <notes>48,51,55</notes>
+	</noteSet>
+	
+	<noteSet>
+	  <name>major7</name>
+	  <notes>48,52,55,59</notes>
+	</noteSet>
+	
+	<noteSet>
+	  <name>minor7</name>
+	  <notes>48,51,55,58</notes>
+	</noteSet>
+		
+	<defs>
+		<defaultSet>
+			<root>
+				C
+			</root>
+			<quality>
+				major
+			</quality>
+		</defaultSet>
+		
+		<defaultSet>
+			<root>
+				D
+			</root>
+			<quality>
+				minor
+			</quality>
+		</defaultSet>
+		
+		<defaultSet>
+			<root>
+				G
+			</root>
+			<quality>
+				major
+			</quality>
+		</defaultSet>
+		
+		<defaultSet>
+			<root>
+				E
+			</root>
+			<quality>
+				minor
+			</quality>
+		</defaultSet>
+		
+		<defaultSet>
+			<root>
+				A
+			</root>
+			<quality>
+				minor
+			</quality>
+		</defaultSet>
+
+	</defs>
+</noteSetsFile>
